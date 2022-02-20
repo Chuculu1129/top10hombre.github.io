@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.cabeza{
+    background-color:rgb(49, 48, 48) ;
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+    border-bottom:1px solid rgb(89, 87, 87)  ;
+ 
+    
+    
+}
+
+.cabeza h1{
+   display: inline-block;
+   margin-top: 15px;
+   font-size: 60px;
+   
+}
+
+.cabeza1-1{
+   display:inline-block;
+   background-color: rgb(216, 133, 7);
+   margin-left: 5px;
+   border-radius: 5px;
+   
+
+ 
+}
+
+.cabeza1-1 h1{
+    margin-bottom: 3px;
+    margin-top: 3px;
+    color: black;
+
+}
+
+#centro{
+    background-color: black;
+    height: 500px;
+    color: aliceblue;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cuadro{
+    background-color: rgb(49, 48, 48) ;
+    
+    text-align: center;
+    
+    width: 400px;
+    height: 400px;
+    margin-top: 100px;
+    border-radius: 30px;
+
+}
+
+p{
+    background-color: black;
+    color:aliceblue ;
+    height: 400px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.cuadro h1{
+    font-size: 50px;
+    background-color: rgb(216, 133, 7);
+    color:black;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+    margin-top: 60px;
+
+
+}
+
+.cuadro input{
+    background-color:rgb(49, 48, 48) ;
+
+}
+
+.cuadro a{
+    text-decoration: none;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(216, 133, 7);
+    padding: 5px;
+    border-radius: 10px;
+    
+
+    
+}
+
+.cuadro a:hover{
+    background-color: rgb(216, 133, 7);
+}
+
+
+
+
+
+
+
+
+
+
+

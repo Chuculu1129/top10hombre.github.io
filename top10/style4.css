@@ -1,0 +1,129 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.cabeza{
+    background: #04195D;
+    padding-top: 30px;
+    min-height: 30px;
+    border-bottom: 5px solid #B92277;
+    background-image: linear-gradient(to right,#04195D,#B92277);
+    
+ }
+
+
+ .cabeza-1{
+    width: 80%;
+    margin:auto;
+    
+ }
+
+
+ .cabeza a{
+    text-decoration: none;
+    font-size: 30px;
+    background-color:#04195D ;
+    color:aliceblue;
+    border-radius: 10px;
+    float: right;
+    margin-right: 15px;
+    margin-top: -10px;
+    padding-left: 15px;
+    padding-right: 15px;
+ 
+ }
+
+ .cabeza a:hover{
+    background-color: rgb(198, 111, 226);
+ }
+
+ .cabeza h1{
+    padding-left: 10px;
+    margin-top: -20px;
+    color:aliceblue;
+    text-shadow: 5px 5px 5px #B92277 ;
+   
+ }
+ 
+ .cabeza h2{
+    padding-left: 100px;
+    margin-top: -20px;
+    color:aliceblue;
+    text-shadow: 5px 5px 5px #B92277 ;
+    
+ }
+
+
+
+ #cuadro td{
+    border: 1px solid black;
+ }
+
+ #cuadro th{
+    border: 1px solid black;
+
+ }
+
+ #cuadro{
+     display: flex;
+     justify-content: center;
+ 
+     padding:10px;
+     
+ }
+
+ .cuerpo{
+    background-image: linear-gradient(to bottom right,#ffc400,#5b0ff1);
+    
+    display: flex;
+ 
+    justify-content: center;
+  
+  
+ }
+
+ table{
+    text-align: center;
+ 
+     
+    
+ }
+
+ table td{
+     height: 100px;
+     background-color: rgb(194, 188, 188);
+     padding: 50px;
+     
+ }
+
+ table th{
+    font-size: 30px;
+    color: rgb(49, 159, 255);
+ }
+
+ #texto{
+    margin:100px;
+    background-color: rgb(224, 238, 130);
+    width: 1000px;
+    padding: 50px;
+    background-image: url(borde2.png);
+    background-origin: padding-box;
+   background-position: left;
+    background-repeat: no-repeat;
+    background-size: 600px;
+
+
+
+ }
+
+ #texto h1{
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(162, 0, 255);
+    font-size: 60px;
+ }
+
+ #texto h2{
+    color: #5b0ff1;
+    text-decoration: underline;
+ }
